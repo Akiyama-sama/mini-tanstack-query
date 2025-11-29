@@ -1,6 +1,6 @@
 # mini-tanstack-query
 
-这是一个最简版的tanstack-query，基于React19，除了用到了观察者模式以外，与React交互部分用的是![useSyncExternalStore](https://zh-hans.react.dev/reference/react/useSyncExternalStore)这个官方hook,此仓库用于学习如何如何从零构建出一个最精简的Tanstack query，仅实现出查询部分，其他部分可能未来有兴趣的时候继续实现
+这是一个最简版的tanstack-query，基于React19，除了用到了观察者模式以外，与React交互部分用的是[useSyncExternalStore](https://zh-hans.react.dev/reference/react/useSyncExternalStore)这个官方hook,此仓库用于学习如何如何从零构建出一个最精简的Tanstack query，仅实现出查询部分，其他部分可能未来有兴趣的时候继续实现
 
 # 核心模块
 

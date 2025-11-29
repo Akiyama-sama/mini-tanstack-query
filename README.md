@@ -124,6 +124,7 @@ export function useQuery<T>(key: string[], fn: () => Promise<T>) {
 # 如何运行
 
 ```bash
+git clone https://github.com/Akiyama-sama/mini-tanstack-query.git
 cd mini-tanstack-query
 pnpm i
 pnpm run dev
